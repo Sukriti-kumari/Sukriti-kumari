@@ -1,3 +1,4 @@
+package arrayProblem;
 
 import java.util.Scanner;
 
