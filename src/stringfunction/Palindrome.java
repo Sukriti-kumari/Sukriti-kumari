@@ -38,7 +38,8 @@ public class Palindrome {
 			
 		}
 		
-		System.out.println("Number of Vowels in given string is: " + count);
+		System.out.println("Number of Vowels in given string is: ");
+		System.out.println(count);
 		
 	}
 	
